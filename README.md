@@ -1,4 +1,4 @@
-# Proyecto: Análisis Exploratorio de Clientes y Uso de Servicios de Telecomunicaciones
+# Proyecto: Análisis Exploratorio de Clientes y Uso de Servicios de Telecomunicaciones en ConnectaTel
 
 ## 📌 Objetivo del Proyecto
 
